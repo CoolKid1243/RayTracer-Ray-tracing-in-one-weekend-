@@ -1,0 +1,3 @@
+D:/All Game Stuff And Softwhere/VS Code Projects/3. Random Projects/Ray-Tracer/build/CMakeFiles/RayTracer.dir
+D:/All Game Stuff And Softwhere/VS Code Projects/3. Random Projects/Ray-Tracer/build/CMakeFiles/edit_cache.dir
+D:/All Game Stuff And Softwhere/VS Code Projects/3. Random Projects/Ray-Tracer/build/CMakeFiles/rebuild_cache.dir
